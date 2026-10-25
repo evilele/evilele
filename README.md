@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### 🔍 About Me
+- 🔭 Currently working on **Exploiting**
+- 👯 Collaborating on **Offensive and Defensive Tooling**
+- 🤔 Looking for help with **unbacked kernel calls**
+- 💬 Ask me about **my SANS index** and my [**shitty blog**](https://blog.levi.wiki)
+- 📫 How to reach me: evilele@pm.me
+
+---
+
 ### 📊 My GitHub Stats
 
 <table width="100%" align="center">
@@ -20,11 +29,3 @@
   </tr>
 </table>
 
----
-
-### 🔍 About Me
-- 🔭 I’m currently working on **Exploiting**
-- 👯 I’m looking to collaborate on **Offensive and Defensive Tooling**
-- 🤔 I’m looking for help with **unbacked kernel calls**
-- 💬 Ask me about **my SANS index**
-- 📫 How to reach me: evilele@pm.me
