@@ -2,18 +2,27 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="60%" />
-</p>
+<table width="100%" align="center">
+  <!-- Top Row: Full width Stats card -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=evilele&theme=dark" alt="GitHub Stats" width="65%" />
+    </td>
+  </tr>
+  <!-- Bottom Row: Languages and Streak side-by-side -->
+  <tr>
+    <td width="37%" valign="center" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evilele&theme=dark&langs_count=3" alt="Top Languages" width="100%" />
+    </td>
+    <td width="61%" valign="center" align="center">
+      <img src="https://streak-stats.demolab.com/?user=evilele&theme=dark" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ About Me
+### 🔍 About Me
 - 🔭 I’m currently working on **Exploiting**
 - 👯 I’m looking to collaborate on **Offensive and Defensive Tooling**
 - 🤔 I’m looking for help with **unbacked kernel calls**
