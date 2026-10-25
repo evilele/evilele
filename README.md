@@ -9,13 +9,13 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Numbers go Up
 
 <table width="100%" align="center">
   <!-- Top Row: Full width Stats card -->
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=evilele&theme=dark" alt="GitHub Stats" width="65%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=evilele&theme=dark&custom_title=EvilEle's+GitHub+Stats" alt="GitHub Stats" width="65%" />
     </td>
   </tr>
   <!-- Bottom Row: Languages and Streak side-by-side -->
