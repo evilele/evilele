@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**evilele/evilele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 My GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="60%" />
+</p>
+
+---
+
+### 🛠️ About Me
+- 🔭 I’m currently working on **Exploiting**
+- 👯 I’m looking to collaborate on **Offensive and Defensive Tooling**
+- 🤔 I’m looking for help with **unbacked kernel calls**
+- 💬 Ask me about **my SANS index**
+- 📫 How to reach me: evilele@pm.me
