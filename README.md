@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔍 About Me
-- 🔭 Currently working on **Exploiting**
+- 🔭 Currently **Exploiting Windows**
 - 👯 Collaborating on **Offensive and Defensive Tooling**
 - 🤔 Looking for help with **unbacked kernel calls**
 - 💬 Ask me about **my SANS index** and my [**shitty blog**](https://blog.levi.wiki)
